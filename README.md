@@ -304,9 +304,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/kalkidevs)
-- LinkedIn: [Your Profile](https://linkedin.com/in/kalkidevs)
-- Portfolio: [yourwebsite.com](https://developeryash.vercel.app)
+- GitHub: [@kalkidevs](https://github.com/kalkidevs)
+- LinkedIn: [Yash Kushwaha](https://linkedin.com/in/kalkidevs)
+- Portfolio: [Developeryash.com](https://developeryash.vercel.app)
 
 ---
 
